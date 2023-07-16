@@ -18,7 +18,7 @@ Blog cms with a single template using django framework.
     Step1: composing... 
 
 
-## Features of Krishikhamar.com
+## Features of Django Blog
     1. category
     2. post
     3. page 
