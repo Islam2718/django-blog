@@ -13,7 +13,7 @@
 
 Blog cms with a single template using django framework. 
 
-### Tutorial 
+## Tutorial 
     - install python and pip in your machine. 
     - checking python: run 'python' command. 
     - to exit from block: run 'exit()' command. 
