@@ -13,6 +13,10 @@
 
 Blog cms with a single template using django framework. 
 
+## Tutorial 
+    - install python and pip in your machine. 
+
+
 ## Installation Process
 
     Step1: composing... 
